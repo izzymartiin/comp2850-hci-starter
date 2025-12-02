@@ -1,15 +1,15 @@
 # Informed Consent Script Template
 
 **Module**: COMP2850 Human-Computer Interaction
-**Activity**: Peer pilot evaluation (Week 9)
-**Researcher**: [Your Name]
+**Activity**: Portfotlio peer pilot evaluation
+**Researcher**: Isobel Martin
 **Date**: [YYYY-MM-DD]
 
 ---
 
 ## Introduction
 
-> Hi, thanks for agreeing to help with my COMP2850 evaluation. This should take about 15 minutes. I'll ask you to complete 4 tasks using my task manager application, and I'll collect some basic timing and error data. Everything is anonymous—I won't record your name or any personal details.
+> Hi, thanks for agreeing to help with my HCI evaluation. This should take about 15 minutes. I’m testing my task management interface, not you. There are no right or wrong answers. Everything is anonymous—I won't record your name or any personal details.
 
 ## Purpose
 
@@ -56,7 +56,7 @@
 
 ## Your Rights (UK GDPR)
 
-> - **Right to withdraw**: You can stop at any time, no explanation needed
+> - **Right to withdraw**: Your participation is voluntary. You can stop at any time without giving a reason.
 > - **Right to access**: You can see the data I've collected about you (ask for your session ID data)
 > - **Right to erasure**: You can request I delete your data (I'll remove your session ID from the CSV)
 > - **Right to complain**: If you have concerns, contact the University's Data Protection Officer: dpo@leeds.ac.uk

@@ -4,3 +4,9 @@
 /out/
 .claude/
 COMPILATION-ISSUES.md
+
+#Ensures sensitive data isn't committed
+/data/tasks.csv
+/data/metrics.csv
+/wk*/research/*notes.md  # Interview notes with pseudonyms
+*.log
